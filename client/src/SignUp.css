@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  font-size: 62.5%;
+  background-color: rgb(241, 240, 255);
+  color: #555;
+}
+
+/* .signUp {
+  border-radius: 1px solid black;
+} */
+
+.input-div {
+  padding: 1.2rem 2.2rem;
+}
+
+.input-label {
+  font-size: 2.2rem;
+  padding: 0.5rem;
+}
+
+.input-text {
+  width: 22rem;
+  height: 2rem;
+  padding-left: 1.1rem;
+  font-size: 1.2rem;
+}
+h1 {
+  font-size: 2rem;
+}
+
+.btn {
+  margin-left: 2.2rem;
+  padding: 0.8rem 1.6rem;
+  font-size: 1.2rem;
+  background-color: rgba(3, 148, 100, 0.541);
+  border: 1px solid rgba(9, 236, 160, 0.541);
+  border-radius: 15px;
+  color: #fff;
+}
